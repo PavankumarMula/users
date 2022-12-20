@@ -1,0 +1,10 @@
+.errorcard{
+    background-color: #15172b;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 110px;
+    padding: 20px;
+    width: 320px;
+    margin-top: 10px;
+    color: red;
+}

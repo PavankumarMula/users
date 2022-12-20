@@ -1,0 +1,13 @@
+.cardshape{
+    background-color: #15172b;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 30px;
+    padding: 5px;
+    width: 250px;
+    margin: 10px;
+    color: chocolate;
+}
+ul {
+    list-style:  none;
+  }
